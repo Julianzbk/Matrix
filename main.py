@@ -1,0 +1,3 @@
+import gaussian
+
+gaussian.solve()
